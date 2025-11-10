@@ -4,4 +4,3 @@ ffmpeg-python
 pillow
 numpy
 fastapi
- 
