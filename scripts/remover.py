@@ -5,7 +5,7 @@
 # I am not responsible for anything you do with this script
 # This is mean to be imported as a python module for use in custom applications
 #
-#
+# 
 
 from bs4 import BeautifulSoup
 import json
